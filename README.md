@@ -1,3 +1,3 @@
-# graphql-apollo-hooks-starter
+# native-apollo-hooks-starter
 
 Created with CodeSandbox

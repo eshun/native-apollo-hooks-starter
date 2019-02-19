@@ -1,5 +1,5 @@
 {
-  "name": "graphql-apollo-hooks-starter",
+  "name": "native-apollo-hooks-starter",
   "version": "1.0.0",
   "description": "A demo app featuring Apollo Client, React Apollo v2.1, and Apollo Link State 🐶\n \nGraphQL server: https://glitch.com/edit/#!/dog-graphql-api",
   "keywords": [
